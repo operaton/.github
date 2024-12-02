@@ -1,5 +1,10 @@
 ## Hi there we are Operaton 👋
 
+And have a goal to deliver an engine for BPMN-Process automation for everyone.
+
+### Want to talk to us or other people around Operaton?
+Visit our [Forum](https://forum.operaton.org)
+
 <!--
 
 **Here are some ideas to get you started:**
